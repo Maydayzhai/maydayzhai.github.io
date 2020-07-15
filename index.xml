@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https:maydayzhai.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2020 18:55:41 +0800</lastBuildDate>
+    
+	<atom:link href="https:maydayzhai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>blog</title>
+      <link>https:maydayzhai.github.io/post/blog/</link>
+      <pubDate>Wed, 15 Jul 2020 18:55:41 +0800</pubDate>
+      
+      <guid>https:maydayzhai.github.io/post/blog/</guid>
+      <description>#���ǵ�һƪ���Բ��� ��������2312312</description>
+    </item>
+    
+  </channel>
+</rss>
